@@ -26,7 +26,7 @@
 		<mariadb-connector.version>2.6.2</mariadb-connector.version>
 		<embpostgres.version>0.13.3</embpostgres.version>
 		<sqlite.version>3.32.3.2</sqlite.version>
-		<h2.version>1.4.199</h2.version>
+		<h2.version>2.2.220</h2.version>
 	</properties>
 	
 	<scm>
